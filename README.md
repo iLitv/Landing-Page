@@ -1,1 +1,4 @@
-# Landing-Page
+## Пример верстки Landing-Page 
+
+- Адаптив
+- Бэм
